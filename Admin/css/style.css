@@ -1,0 +1,14 @@
+body{
+	background:url(../images/stefan-stefancik-257625.jpeg);
+	
+}
+
+#submit{
+	text-align:right;
+	
+}
+#details{
+	border: 2px solid black;
+	border-left:300px;
+	border-right:50px;
+}

@@ -1,0 +1,41 @@
+body{
+	
+}
+.images a{
+	
+}
+
+.Categories h1 ul li a{
+	text-decoration:none;
+}
+.Categories h1{
+	
+	font-size:28px;
+}
+
+ h3{
+	font-size:28px;
+	
+}
+h5{
+	font-size:20px;
+}
+.shopping-cart-icon{
+	    color:#fff;
+    font-size: 15px;
+    margin-top: 0px;
+}
+.slider3 img{
+	height:100px;
+}
+#submit{
+	margin-left:100px;
+	float:right;
+}
+.Quantity
+{
+	font-size:20px;
+}
+.footer{
+	background-color:red;
+}
